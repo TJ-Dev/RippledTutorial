@@ -1,0 +1,22 @@
+{
+  "name": "my_ripple_experiment",
+  "version": "0.0.1",
+  "description": "Start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TJ-Dev/RippledTutorial.git"
+  },
+  "author": "TJ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TJ-Dev/RippledTutorial/issues"
+  },
+  "homepage": "https://github.com/TJ-Dev/RippledTutorial#readme",
+  "dependencies": {
+    "eslint": "^5.16.0"
+  }
+}
