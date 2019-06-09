@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/TJ-Dev/RippledTutorial#readme",
   "dependencies": {
-    "eslint": "^5.16.0"
+    "eslint": "^5.16.0",
+    "ripple-lib": "^1.2.4"
   }
 }
